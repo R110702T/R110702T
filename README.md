@@ -1,11 +1,11 @@
-## Hi there 👋
+
 ![logo](https://github.com/R110702T/R110702T/blob/main/code2.jpeg)
 
 <h1 align="center">Hi 👋, I'm Riya Maity</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/YhA5nO9jiCkAAAAC/ika-musume.gif"/>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r110702t&label=Profile%20views&color=0e75b6&style=flat" alt="r110702t" /> </p>
 
