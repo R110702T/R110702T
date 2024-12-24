@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo](https://github.com/R110702T/R110702T/blob/main/code.webp)
+![logo](https://github.com/R110702T/R110702T/blob/main/code2.jpeg)
 
 <h1 align="center">Hi 👋, I'm Riya Maity</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
